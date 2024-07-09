@@ -1,4 +1,4 @@
-### Hi there 👋, Yasmina Jammeli
+<p align="center"><a href="https://yasminjammeli.github.io"><img width="80%" alt="Hello, I'm Yasmina. I make content about development" src="./assets/gh-readme-header.png" /></a></p>
 #### web development
 I'm Yasmina from Tunisia, and I make content about development. I love learning languages and frameworks like React and React Native, as well as working on Angular. I also like wireframing.
 
